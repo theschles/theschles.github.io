@@ -3,7 +3,8 @@
 <table style="border: none;">
   <tr  style="border: none;">
     <td valign="top" style="border: none;">
-      Hi I'm Phil Schlesinger.  I'm a TOGAF 9 Certified Enterprise Architect.
+      <p>Hi! I'm Phil Schlesinger.</p>
+      <p>I'm a TOGAF 9 Certified Enterprise Architect.</p>
     </td>
     <td style="border: none;">
       <img src="https://raw.githubusercontent.com/theschles/theschles.github.io/refs/heads/main/assets/img/portrait.jpg"/>
