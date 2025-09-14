@@ -8,3 +8,8 @@
 </table>
 
 [LinkedIn](https://www.linkedin.com/in/philiphschlesinger/)
+
+Presentations:
+<ul>
+  <li><a href="https://docs.google.com/presentation/d/17JYjye5_fPW3oxt4ipSospVwVmwUslck23GbP5MMS08/edit?usp=sharing">2024-09-13 Maker Faire OC Talk</a></li>
+</ul>
