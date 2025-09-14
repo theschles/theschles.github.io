@@ -11,9 +11,13 @@
       </p>
       <p>
         <a href="https://www.linkedin.com/in/philiphschlesinger/">
-          LinkedIn
+          My LinkedIn
         </a>
       </p>
+      <p>
+        I'm @theschles on the <a href="https://discord.makerfaireoc.com/">Maker Faire OC Discord</a>
+      </p>
+      <p>You can also email me at phil ...at... schlesinger family dot net</p>
       <p>
         Presentations:
       </p>
@@ -24,6 +28,7 @@
           </a>
         </li>
       </ul>
+      
     </td>
     <td style="border: none;">
       <img src="https://raw.githubusercontent.com/theschles/theschles.github.io/refs/heads/main/assets/img/portrait.jpg"/>
